@@ -8,9 +8,9 @@
 *.pem
 *.xpi
 *.zip
-dist
+# dist
 dist-ssr
-extension/manifest.json
+# extension/manifest.json
 node_modules
 src/components.d.ts
 .eslintcache
