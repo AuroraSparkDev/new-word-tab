@@ -1,5 +1,6 @@
 import GMAT from './GMAT'
 import GRE from './GRE'
+import IELTS from './IELTS'
 import LONGMAN_3000 from './LONGMAN_3000'
 import OXFORD_2000 from './OXFORD_2000'
 import OXFORD_3000 from './OXFORD_3000'
@@ -36,6 +37,10 @@ const WORDS = {
   LONGMAN: {
     name: 'Longman',
     list: LONGMAN_3000,
+  },
+  IELTS: {
+    name: 'IELTS',
+    list: IELTS,
   },
 }
 
